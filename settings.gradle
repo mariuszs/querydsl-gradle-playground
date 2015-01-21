@@ -1,0 +1,5 @@
+rootProject.name = 'querydsl-test'
+
+include 'foo'
+include 'bar'
+
